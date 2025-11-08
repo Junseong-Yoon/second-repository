@@ -1,0 +1,14 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+
+# 가상환경 폴더 무시
+venv/
+
+# Python 캐시파일 무시
+__pycache__/
+
+# VSCode 설정 폴더 무시 (선택)
+.vscode/
+
+# OS 별 임시파일 무시
+.DS_Store
+Thumbs.db
