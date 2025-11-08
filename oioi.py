@@ -11,3 +11,5 @@ df = pd.DataFrame(data)
 
 print(df)
 print("\n나이 평균:", df["나이"].mean())
+
+om??
