@@ -12,4 +12,4 @@ df = pd.DataFrame(data)
 print(df)
 print("\n나이 평균:", df["나이"].mean())
 
-om??
+#업로드 연습하는데 오류계속나온다
